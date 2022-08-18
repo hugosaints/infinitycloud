@@ -4,7 +4,7 @@
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.imgur.com/KIfPnWr.png", 
+      "value": "https://i.imgur.com/b586F2X.png", 
       "name": "app_background_image"
     },
     {
@@ -27,7 +27,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#000000bd", 
+      "value": "#ff2BA79F", 
       "id": 41, 
       "name": "button_color"
     }, 
@@ -88,55 +88,55 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.imgur.com/4kRySlV.png", 
+      "value": "https://i.imgur.com/opQoLIo.png", 
       "id": 2386, 
       "name": "app_logo"
     },
     {
       "user_id": 27, 
-      "value": "#222222", 
+      "value": "#a5000000", 
       "id": 3134, 
       "name": "app_dialog_config_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#333333", 
+      "value": "#a5000000", 
       "id": 3135, 
       "name": "app_config_item_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#222222", 
+      "value": "#a5000000", 
       "id": 3136, 
       "name": "app_dialog_success_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#222222", 
+      "value": "#a5000000", 
       "id": 3137, 
       "name": "app_dialog_error_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/R9ycgpR/icon-6-launcher-round.png", 
+      "value": "https://i.imgur.com/YeSmSQW.png", 
       "id": 5130, 
       "name": "app_qsTileIcon"
     }, 
     {
       "user_id": 27, 
-      "value": "#2bb673", 
+      "value": "#ffffff", 
       "id": 5139, 
       "name": "app_dialog_success_text_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ed1c24", 
+      "value": "#ffffff", 
       "id": 5140, 
       "name": "app_dialog_error_text_color"
     }, 
     {
       "user_id": 27, 
-      "value": "Bem vindo ao app Infinity 4G - Tunnel!!", 
+      "value": "Bem vindo ao app Infinity Cloud - Tunnel!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
@@ -148,13 +148,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/FsJD5bz/20220628-194452.png", 
+      "value": "https://i.imgur.com/RzCcwiw.png", 
       "id": 5143, 
       "name": "app_dialog_image_success"
     }, 
     {
       "user_id": 27, 
-      "value": "27_app_dialog_image_fail_CB677A56822C494CF87B.png", 
+      "value": "https://i.imgur.com/owacglp.png", 
       "id": 5144, 
       "name": "app_dialog_image_fail"
     }, 
